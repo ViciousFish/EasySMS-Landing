@@ -11,8 +11,9 @@
     { "src": "img/logo.png", "use": "@now/static" },
     { "src": "img/low-price.png", "use": "@now/static" },
     { "src": "img/magic.png", "use": "@now/static" },
-    { "src": "img/reporting.png", "use": "@now/static" },
+    { "src": "img/reporting.jpg", "use": "@now/static" },
     { "src": "img/twilio.png", "use": "@now/static" },
+    { "src": "img/banner-bk.jpg", "use": "@now/static" },
     { "src": "font-awesome-4.7.0/css/font-awesome.min.css", "use": "@now/static" }
   ]
 }
