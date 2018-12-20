@@ -15,5 +15,7 @@
     { "src": "img/twilio.png", "use": "@now/static" },
     { "src": "img/banner-bk.jpg", "use": "@now/static" },
     { "src": "font-awesome-4.7.0/css/font-awesome.min.css", "use": "@now/static" }
-  ]
+  ],
+  "alias": "https://easysms.now.sh"
 }
+
